@@ -1,0 +1,16 @@
+{
+  "name": "Stas Kurbanov",
+  "avatar": "https://avatars.githubusercontent.com/u/84572656?v=4",
+  "links": [
+    {
+      "title": "My person site",
+      "url": "https://vercel.com",
+      "image": "https://avatars.githubusercontent.com/u/84572656?v=4"
+    },
+    { "title": "Vercel.com", "url": "https://vercel.com" }
+  ],
+  "socials": [
+    { "title": "Instagram", "url": "https://github" },
+    { "title": "GitHub", "url": "https://instagram" }
+  ]
+}

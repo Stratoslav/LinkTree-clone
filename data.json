@@ -1,0 +1,12 @@
+{
+  "name": "Stas Kurbanov",
+  "avatar": "twitterimg",
+  "links": [
+    { "title": "My person site", "url": "https://vercel.com" },
+    { "title": "Vercel.com", "url": "https://vercel.com" }
+  ],
+  "socials": [
+    { "title": "Instagram", "url": "https://github" },
+    { "title": "GitHub", "url": "https://instagram" }
+  ]
+}
